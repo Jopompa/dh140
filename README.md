@@ -1,5 +1,5 @@
 # Coding for Humanities Profile
-## Jovany Pompa
+## Juan Jovany Pompa
 <img src="Screenshot (29).png" width="99" length="99">
 
 **Age**: 22 years old 
